@@ -1,3 +1,2 @@
-build-essential
-wget
-libta-lib0-dev
+# System dependencies for Streamlit Cloud
+# TA-Lib removed - use pandas-ta instead for technical analysis
