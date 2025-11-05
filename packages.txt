@@ -1,2 +1,0 @@
-# System dependencies for Streamlit Cloud
-# TA-Lib removed - use pandas-ta instead for technical analysis
