@@ -1,0 +1,57 @@
+# Core Web Framework
+streamlit==1.31.1
+streamlit-option-menu==0.3.12
+
+# Data Processing
+pandas==2.2.0
+numpy==1.26.4
+scipy==1.12.0
+
+# Financial Data APIs
+yfinance==0.2.36
+alpha-vantage==2.3.1
+requests==2.31.0
+
+# Options Pricing & Greeks
+py-vollib==1.0.1
+mibian==0.1.3
+
+# Technical Analysis
+pandas-ta==0.3.14b0
+ta-lib==0.4.28
+
+# Database (for caching and position tracking)
+sqlalchemy==2.0.27
+sqlite3-python==1.0.0
+
+# Visualization
+plotly==5.19.0
+matplotlib==3.8.3
+seaborn==0.13.2
+
+# Alerts & Notifications
+python-telegram-bot==21.0.1
+twilio==9.0.4
+sendgrid==6.11.0
+
+# Backtesting
+backtrader==1.9.78.123
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.6.1
+pytz==2024.1
+schedule==1.2.1
+
+# Cloud Deployment
+gunicorn==21.2.0
+
+# Testing
+pytest==8.0.1
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+
+# Development
+black==24.2.0
+flake8==7.0.0
+mypy==1.8.0
