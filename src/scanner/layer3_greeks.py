@@ -2,7 +2,7 @@
 Layer 3: Options Greeks Analysis Scanner
 Find optimal option spreads based on Greeks criteria
 """
-from typing import List, Optional, Tuple
+from typing import List, Optional, Tuple, Union
 from datetime import datetime, timedelta, date
 import logging
 
